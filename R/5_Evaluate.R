@@ -1,7 +1,7 @@
 # ====================================
 # Theng et al. 2021 
 # meryltheng@gmail.com
-# Model evaluation (Work-in-progress)
+# Model evaluation
 # ====================================
 library(dplyr)
 
